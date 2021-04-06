@@ -35,9 +35,6 @@ def get_places(city_name):
             city = words[-2] + ' ' + words[-1]
             list_of_places_per_city[city].append(place)
 
-        # print(words)
-
-
     return list_of_places_per_city[city_name]
 
 

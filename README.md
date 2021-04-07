@@ -1,6 +1,8 @@
 # corona-flask
 A simple web app for showing the total cases of corona all around the world, cities
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 # Installation:
 - git clone https://github.com/krishpranav/corona-flask
 - cd corona-flask
